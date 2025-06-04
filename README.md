@@ -1,6 +1,6 @@
 # 🌱 Soil Moisture Monitoring Mobile App
 
-> **A comprehensive mobile application for monitoring soil moisture levels and system status with real-time data visualization and alert management.**
+> **A comprehensive mobile application for monitoring soil moisture levels and system status with real-time data visualization and alert management. NOTE: This project isn't fully functioning, due to the Academics, management is somehow complexity, I will like you follow the instructions and continue to contribute**
 
 ---
 
@@ -141,10 +141,7 @@ npx react-native run-android
 ## 🆘 Technical Support
 
 **For technical support**:
-- 📧 **Email**: support@soilmonitor.com
-- 📖 **Documentation**: [Link to technical docs]
-- 🚨 **Emergency support**: [Emergency contact]
-
+- 📧 **Email**: samuelbizimana99@gmail.com
 ---
 
 ## 📋 System Requirements
@@ -158,11 +155,6 @@ npx react-native run-android
 
 ---
 
-## 📄 License
-
-**[Your License Here]**
-
----
 
 ## 🏷️ Tags
 `#soil-monitoring` `#agriculture` `#iot` `#mobile-app` `#react-native` `#real-time-data`
